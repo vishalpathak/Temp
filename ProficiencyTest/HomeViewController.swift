@@ -2,13 +2,13 @@
 //  ViewController.swift
 //  ProficiencyTest
 //
-//  Created by Borqs India on 14/03/20.
+//  Created by VishalP on 14/03/20.
 //  Copyright © 2020 Vishal. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
